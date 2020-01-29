@@ -12,6 +12,7 @@ public class math{
 		// a++;
 		a+=5;
 		System.out.println(a);
+		helo;
 
 
 
